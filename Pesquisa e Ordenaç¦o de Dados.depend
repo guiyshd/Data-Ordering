@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1567425548 source:c:\users\a2049244\desktop\pesquisa e ordenação de dados\main.c
+	<stdio.h>
+
+1567425128 source:c:\users\a2049244\desktop\pesquisa e ordenação de dados\ordenacao.c
+	"ordenacao.h"
+	<stdio.h>
+	<stdlib.h>
+
+1567425125 c:\users\a2049244\desktop\pesquisa e ordenação de dados\ordenacao.h
+
